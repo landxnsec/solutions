@@ -25,4 +25,4 @@
 ## Web
 - [C IS FOR COOKIE THAT'S GOOD ENOUGH FOR ME.](./web/c-is-for-cookie/writeup.md)
 - Ha, classic
-- [rhyming](.web/rhyming/writeup.md)
+- [Rhyming](./web/rhyming/writeup.md)
